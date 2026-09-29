@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sh3rencr.github.io/PomodoroUtility/sitemap.xml
